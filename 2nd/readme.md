@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn openpyxl
 
 ## Results
 
-![result](assets/result.png)
+![result](./assets/result.png)
 
 - Accuracy: 75%
 - Class 1 (ADHD):
@@ -60,7 +60,7 @@ pip install pandas numpy scikit-learn openpyxl
 + Class 1 (Sex = 1): Precision = 0%, Recall = 0% → model completely misses class 1. 
 ➜ Model always predicts 0 → totally ignores class 1.
 
-![result in kaggle](assets/kaggle.png)
+![result in kaggle](./assets/kaggle.png)
 
 ## Một số phương pháp cải thiện model
 
