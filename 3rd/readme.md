@@ -21,7 +21,7 @@ pip install pandas numpy scikit-learn imbalanced-learn
 
 ![result in kaggle](assets/kaggle.png)
 
-## Một số phương pháp cải thiện model
+## Several techniques to enhance the model
 
 - Using Cross Validation (CV) helps models like Random Forest, XGBoost, etc., generalize better, rather than just fitting well on a single train/test split.
 

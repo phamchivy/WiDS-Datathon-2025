@@ -62,7 +62,7 @@ pip install pandas numpy scikit-learn openpyxl
 
 ![result in kaggle](assets/kaggle.png)
 
-## Một số phương pháp cải thiện model
+## Several techniques to enhance the model
 
 - Resample the data.
 - Choose better suited models: some models like XGBoost, LightGBM work well with imbalanced datasets.
