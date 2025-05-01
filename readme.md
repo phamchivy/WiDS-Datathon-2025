@@ -30,6 +30,8 @@ The provided dataset includes:
 
 ## Results
 
+![result](assets/score.png)
 
+![result](assets/result.png)
 
 
